@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\Library_Storage\Library_Storage\bin\Debug\Library_Storage.dll
+C:\Users\Lenovo\source\repos\Library_Storage\Library_Storage\bin\Debug\Library_Storage.pdb
+C:\Users\Lenovo\source\repos\Library_Storage\Library_Storage\obj\Debug\Library_Storage.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Library_Storage\Library_Storage\obj\Debug\Library_Storage.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Library_Storage\Library_Storage\obj\Debug\Library_Storage.dll
+C:\Users\Lenovo\source\repos\Library_Storage\Library_Storage\obj\Debug\Library_Storage.pdb
+C:\Users\Lenovo\source\repos\Library_Storage\Library_Storage\bin\Debug\Library_Print.dll
+C:\Users\Lenovo\source\repos\Library_Storage\Library_Storage\bin\Debug\Library_Print.pdb
+C:\Users\Lenovo\source\repos\Library_Storage\Library_Storage\obj\Debug\Library_Storage.csproj.CopyComplete
